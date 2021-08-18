@@ -1,0 +1,12 @@
+#!/bin/sh
+'''exec' "/media/acro/28ea4184-1b59-4820-b8ac-3f7ab860d20b/acro/Projects/Zuri Resume Django Application/Zuri_internship/env/bin/python" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+from sqlparse.__main__ import main
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
