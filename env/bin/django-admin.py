@@ -1,4 +1,4 @@
-#!/media/acro/28ea4184-1b59-4820-b8ac-3f7ab860d20b/acro/Projects/Zuri Resume Django Application/env/bin/python3
+#!/media/acro/28ea4184-1b59-4820-b8ac-3f7ab860d20b/acro/Projects/Zuri Resume Django Application/Zuri_internship/env/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

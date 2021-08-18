@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/media/acro/28ea4184-1b59-4820-b8ac-3f7ab860d20b/acro/Projects/Zuri Resume Django Application/env"
+VIRTUAL_ENV="/media/acro/28ea4184-1b59-4820-b8ac-3f7ab860d20b/acro/Projects/Zuri Resume Django Application/Zuri_internship/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
